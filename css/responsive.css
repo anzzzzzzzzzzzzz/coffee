@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+header .conteiner{
+        justify-content:center;
+}
+.header_menu li{
+    margin:20px 16px 0;
+}
+#hero{ 
+    height:460px; 
+}
+.hero_inner{   
+    font-size:15px;
+}
+.hero_inner p{
+    font-size:17px; 
+}
